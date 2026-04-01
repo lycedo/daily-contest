@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>공모전 리스트</title>
+    <style>
+        body { font-family: sans-serif; margin: 0; padding: 40px; background: #f8fafc; color: #1e293b; }
+        header { margin-bottom: 30px; border-bottom: 2px solid #e2e8f0; padding-bottom: 20px; }
+        .notice { font-size: 14px; color: #ef4444; font-weight: bold; margin-bottom: 10px; }
+        .update-info { font-size: 13px; color: #64748b; }
+        
+        table { width: 100%; border-collapse: collapse; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        th, td { padding: 15px; text-align: left; border-bottom: 1px solid #f1f5f9; }
+        th { background: #2563eb; color: white; font-size: 14px; }
+        .prize-txt { color: #059669; font-weight: bold; }
+        a { color: #2563eb; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="notice">갱신은 매일 오전 9시에 진행됩니다.</div>
+    <h1 style="margin: 0 0 10px 0;">공모전 전체 리스트</h1>
+    <div class="update-info">마지막 업데이트: <span id="last-update">-</span></div>
+</header>
+
+<table>
+    <thead>
+        <tr>
+            <th style="width: 40%;">공모전명</th>
+            <th>주최측</th>
+            <th>상금</th>
+            <th>마감일</th>
+            <th>링크</th>
+        </tr>
+    </thead>
+    <tbody id="table-body"></tbody>
+</table>
+
+<script>
+    async function loadData() {
+        try {
+            const res = await fetch('./data.json');
+            const data = await res.json();
+            
+            document.getElementById('last-update').innerText = data.last_updated;
+
+            const tbody = document.getElementById('table-body');
+            tbody.innerHTML = data.contests.map(c => `
+                <tr>
+                    <td><strong>${c.title}</strong></td>
+                    <td>${c.organ}</td>
+                    <td class="prize-txt">${c.prize}</td>
+                    <td style="color:red; font-weight:bold;">${c.date}</td>
+                    <td><a href="${c.link}" target="_blank">이동</a></td>
+                </tr>
+            `).join('');
+        } catch (e) {
+            console.error("로드 실패", e);
+        }
+    }
+    loadData();
+</script>
+</body>
+</html>
