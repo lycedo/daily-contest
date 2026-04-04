@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-04-03 01:59:54",
+    "last_updated": "2026-04-04 01:52:45",
     "contests": [
+        {
+            "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자SPECIAL",
+            "organ": "곰앤컴퍼니",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106256"
+        },
         {
             "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)SPECIAL",
             "organ": "과학기술정보통신부",
@@ -93,18 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105145"
         },
         {
-            "title": "[경기도사회적경제원] 2026년 청년 새로:온(溫) 창업동아리 모집신규",
-            "organ": "경기도사회적경제원",
+            "title": "2026년도 한미 첨단분야 청년교류 지원사업 예비장학생 선발 공고신규",
+            "organ": "산업통상부",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106245"
-        },
-        {
-            "title": "2026년 제46회 장애인의 날(장애주간) 4.20이음 프로젝트- 캘리그라피 공모전신규",
-            "organ": "마산장애인복지관",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106241"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106281"
         }
     ]
 }
