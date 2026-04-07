@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-06 02:07:13",
+    "last_updated": "2026-04-07 02:03:01",
     "contests": [
         {
             "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자SPECIAL",
@@ -37,13 +37,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105948"
         },
         {
-            "title": "​[하나금융그룹] 하나 청년 금융인재 양성 프로젝트 참가자 모집SPECIAL",
-            "organ": "하나금융그룹",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105706"
-        },
-        {
             "title": "2026 생활 속 목재이용 국민참여 공모전 (목재 공감(共感) 키트)SPECIALIDEA",
             "organ": "목재문화진흥회",
             "date": "기한없음",
@@ -63,20 +56,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105519"
-        },
-        {
-            "title": "제7기 과기정통부 LMO SAFETY 기자단 모집SPECIAL",
-            "organ": "과학기술정보통신부",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105517"
-        },
-        {
-            "title": "2026 광화문글판 대학생 에세이 공모전SPECIAL",
-            "organ": "교보생명",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105407"
         },
         {
             "title": "제10회 소비자지향성 개선과제 공모전SPECIAL",
@@ -100,11 +79,32 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105145"
         },
         {
-            "title": "유엔기후변화협약 제3차 기후주간 자원봉사자 모집",
-            "organ": "UNFCCC 및 기후부",
+            "title": "2026년 제15회 녹색문학상 작품 공모전SPECIAL",
+            "organ": "산림청",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106295"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105097"
+        },
+        {
+            "title": "2026 창비 청소년 문학상 공모SPECIAL",
+            "organ": "창비",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=103901"
+        },
+        {
+            "title": "2026 아주경제 제2회 에너지포럼 서포터즈 모집신규",
+            "organ": "아주경제",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106336"
+        },
+        {
+            "title": "[자동차손해배상진흥원] 2026 자동차사고 유자녀 멘토링(멘토) 2기 모집신규",
+            "organ": "재단법인 자동차손해배상진흥원",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106335"
         }
     ]
 }
