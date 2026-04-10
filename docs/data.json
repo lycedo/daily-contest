@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-04-09 01:56:09",
+    "last_updated": "2026-04-10 02:08:27",
     "contests": [
+        {
+            "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중신규SPECIAL",
+            "organ": "작필(作筆)",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106461"
+        },
         {
             "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자SPECIAL",
             "organ": "곰앤컴퍼니",
@@ -93,18 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=103901"
         },
         {
-            "title": "[국가보훈부] 히어로즈 패밀리 멘토링 청년멘토 모집신규",
-            "organ": "국가보훈부",
+            "title": "2026 장성 버스킹 전국대회신규",
+            "organ": "장성군축제위원회",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106407"
-        },
-        {
-            "title": "2026 새만금 보리밭 축제 제4회 보리밭 어린이 사생대회신규",
-            "organ": "진봉면지역발전협의회",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106406"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106457"
         }
     ]
 }
