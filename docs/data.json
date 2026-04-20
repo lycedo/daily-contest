@@ -1,8 +1,22 @@
 {
-    "last_updated": "2026-04-19 02:14:21",
+    "last_updated": "2026-04-20 02:23:12",
     "contests": [
         {
-            "title": "포항 로컬 MICE 창업 아이디어 공모전신규SPECIAL",
+            "title": "2026년 제5기 보험연구원 온라인 서포터즈 모집신규SPECIAL",
+            "organ": "보험연구원",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106693"
+        },
+        {
+            "title": "2026 현대오토에버 배리어프리 앱 개발 콘테스트 공모전신규SPECIAL",
+            "organ": "현대오토에버, 서울사회복지공동모금회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106687"
+        },
+        {
+            "title": "포항 로컬 MICE 창업 아이디어 공모전SPECIAL",
             "organ": "한동대학교",
             "date": "기한없음",
             "prize": "상세확인",
@@ -91,20 +105,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105361"
-        },
-        {
-            "title": "2026년 제15회 녹색문학상 작품 공모전SPECIAL",
-            "organ": "산림청",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105097"
-        },
-        {
-            "title": "2026 창비 청소년 문학상 공모SPECIAL",
-            "organ": "창비",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=103901"
         }
     ]
 }
