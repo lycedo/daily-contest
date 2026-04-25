@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-24 02:13:42",
+    "last_updated": "2026-04-25 02:03:35",
     "contests": [
         {
             "title": "[Sh수협은행] 대학생 홍보대사 12기 유니블루 모집SPECIAL",
@@ -42,13 +42,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106474"
-        },
-        {
-            "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중SPECIAL",
-            "organ": "작필(作筆)",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106461"
         },
         {
             "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자SPECIAL",
@@ -112,6 +105,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105361"
+        },
+        {
+            "title": "[한국저작권보호원] 2026 청년 저작권 지킴이 모집신규",
+            "organ": "한국저작권보호원",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106846"
         }
     ]
 }
