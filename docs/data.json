@@ -1,8 +1,15 @@
 {
-    "last_updated": "2026-04-29 02:35:34",
+    "last_updated": "2026-04-30 02:36:36",
     "contests": [
         {
-            "title": "제6기 그린리모델링 대학생기자단 모집신규SPECIAL",
+            "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전신규SPECIAL",
+            "organ": "문화체육관광부",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106965"
+        },
+        {
+            "title": "제6기 그린리모델링 대학생기자단 모집SPECIAL",
             "organ": "국토교통부, 국토안전관리원",
             "date": "기한없음",
             "prize": "상세확인",
