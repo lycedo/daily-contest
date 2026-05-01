@@ -1,8 +1,22 @@
 {
-    "last_updated": "2026-04-30 02:36:36",
+    "last_updated": "2026-05-01 02:42:43",
     "contests": [
         {
-            "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전신규SPECIAL",
+            "title": "2026 제15회 협성독서왕 독후감 공모전신규SPECIAL",
+            "organ": "협성문화재단•북두칠성도서관",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999"
+        },
+        {
+            "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 56기 모집신규SPECIAL",
+            "organ": "글ego",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106993"
+        },
+        {
+            "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전SPECIAL",
             "organ": "문화체육관광부",
             "date": "기한없음",
             "prize": "상세확인",
@@ -65,20 +79,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106656"
         },
         {
-            "title": "2026년 5월 삼성생명 금융캠퍼스 한달 인턴과정 참가자 모집SPECIAL",
-            "organ": "삼성생명",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106474"
-        },
-        {
-            "title": "[곰믹스] 제8회 영상 공모전 - 백만 유튜버 상상이라도 해보자SPECIAL",
-            "organ": "곰앤컴퍼니",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106256"
-        },
-        {
             "title": "[과학기술정보통신부] 2026 글로벌 피우다프로젝트 (SW개발 경진대회)SPECIAL",
             "organ": "과학기술정보통신부",
             "date": "기한없음",
@@ -126,13 +126,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
-        },
-        {
-            "title": "[산업통상부] 2026 엔지니어링산업 경진대회SPECIAL",
-            "organ": "산업통상부",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105361"
         }
     ]
 }
