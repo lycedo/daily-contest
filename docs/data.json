@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-05-05 02:27:06",
+    "last_updated": "2026-05-06 02:31:08",
     "contests": [
+        {
+            "title": "한화생명 드림플러스 인베스터 클럽 2기 모집SPECIAL",
+            "organ": "한화생명 드림플러스",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107042"
+        },
         {
             "title": "2026 제15회 협성독서왕 독후감 공모전SPECIAL",
             "organ": "협성문화재단•북두칠성도서관",
@@ -107,25 +114,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
         },
         {
-            "title": "2026 안양시 건축문화상 작품 공모(아름다운 건축물 부문/계획작품 부문)신규",
+            "title": "2026 해양콘텐츠공모전 숏폼&아이디어 공모전신규",
+            "organ": "부산광역시,(사)한국해양산업협회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107077"
+        },
+        {
+            "title": "2026 안양시 건축문화상 작품 공모(아름다운 건축물 부문/계획작품 부문)",
             "organ": "안양시,안양지역건축사회",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107074"
-        },
-        {
-            "title": "제44회 문명 그 화려한 역설 69개의 표지비밀 풀기 프로젝트 공모 (1억고료 문학상 수상작)신규",
-            "organ": "도서출판 글여울",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107072"
-        },
-        {
-            "title": "모바일 신분증을 활용한 2026 블록체인&AI 해커톤신규",
-            "organ": "(사)한국디지털인증협회",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107071"
         }
     ]
 }
