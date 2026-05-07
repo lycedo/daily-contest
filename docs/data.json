@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-06 02:31:08",
+    "last_updated": "2026-05-07 02:33:16",
     "contests": [
         {
             "title": "한화생명 드림플러스 인베스터 클럽 2기 모집SPECIAL",
@@ -49,13 +49,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106850"
-        },
-        {
-            "title": "2026년 제5기 보험연구원 온라인 서포터즈 모집SPECIAL",
-            "organ": "보험연구원",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106693"
         },
         {
             "title": "2026 현대오토에버 배리어프리 앱 개발 콘테스트 공모전SPECIAL",
@@ -114,18 +107,25 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
         },
         {
-            "title": "2026 해양콘텐츠공모전 숏폼&아이디어 공모전신규",
-            "organ": "부산광역시,(사)한국해양산업협회",
+            "title": "카카오페이 오래오래 함께가게 앰버서더 오래메이트 1기 모집신규",
+            "organ": "카카오페이",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107077"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107137"
         },
         {
-            "title": "2026 안양시 건축문화상 작품 공모(아름다운 건축물 부문/계획작품 부문)",
-            "organ": "안양시,안양지역건축사회",
+            "title": "제18회 전국 세대공감 사랑과 효 청소년 글·그림·엽서 공모전신규",
+            "organ": "사단법인 한국효문화센터",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107074"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107136"
+        },
+        {
+            "title": "제24회 임베디드SW경진대회신규",
+            "organ": "산업통상자원부",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107135"
         }
     ]
 }
