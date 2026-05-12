@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-05-11 02:46:32",
+    "last_updated": "2026-05-12 02:38:42",
     "contests": [
+        {
+            "title": "2026년 상반기 삼성생명 금융캠퍼스 한달 인턴과정 참가자 모집SPECIAL",
+            "organ": "삼성생명",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107232"
+        },
         {
             "title": "[네이버 X 어반플레이] AI BIZ CREATOR SCHOOL 참여자 모집SPECIAL",
             "organ": "네이버 X 어반플레이",
@@ -37,13 +44,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106965"
         },
         {
-            "title": "제6기 그린리모델링 대학생기자단 모집SPECIAL",
-            "organ": "국토교통부, 국토안전관리원",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106899"
-        },
-        {
             "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집SPECIAL",
             "organ": "문화체육관광부, 한국콘텐츠진흥원",
             "date": "기한없음",
@@ -51,7 +51,7 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106851"
         },
         {
-            "title": "2026 대학생 논문경진대회 장애의 재해석 공모전SPECIAL",
+            "title": "2026 대학생 논문경진대회 장애의 재해석 공모전SPECIALIDEA",
             "organ": "한국장애인재단",
             "date": "기한없음",
             "prize": "상세확인",
@@ -100,32 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105566"
         },
         {
-            "title": "제8회 밀크T 창작동화 공모전SPECIALIDEA",
-            "organ": "㈜천재교육, ㈜천재교과서",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105519"
-        },
-        {
             "title": "제10회 소비자지향성 개선과제 공모전SPECIAL",
             "organ": "공정거래위원회",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
-        },
-        {
-            "title": "2026하회세계탈박물관 굿즈 디자인 공모전",
-            "organ": "하회세계탈박물관",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107224"
-        },
-        {
-            "title": "[국립인천해양박물관] 바다의 날 기념 제 1회 바다네컷 그리기 대회",
-            "organ": "국립인천해양박물관",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107221"
         }
     ]
 }
