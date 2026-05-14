@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-05-13 02:45:00",
+    "last_updated": "2026-05-14 02:46:07",
     "contests": [
         {
-            "title": "2026년 상반기 삼성생명 금융캠퍼스 한달 인턴과정 참가자 모집SPECIAL",
+            "title": "2026년 상반기 삼성생명 금융캠퍼스 한달 교육과정 참가자 모집SPECIAL",
             "organ": "삼성생명",
             "date": "기한없음",
             "prize": "상세확인",
@@ -79,13 +79,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106194"
         },
         {
-            "title": "[대한민국시도지사협의회] 지방시대 숏폼 영상 공모전SPECIALIDEA",
-            "organ": "대한민국시도지사협의회",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106166"
-        },
-        {
             "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)SPECIAL",
             "organ": "경기건축문화제 추진위원회",
             "date": "기한없음",
@@ -100,11 +93,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105566"
         },
         {
-            "title": "제10회 소비자지향성 개선과제 공모전SPECIAL",
+            "title": "제10회 소비자지향성 개선과제 공모전SPECIALIDEA",
             "organ": "공정거래위원회",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
+        },
+        {
+            "title": "2026 가족에게 감사메시지 공모전 – Thank You to Family신규",
+            "organ": "H2O품앗이운동본부",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107344"
         }
     ]
 }
