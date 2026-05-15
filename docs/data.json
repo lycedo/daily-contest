@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-14 02:46:07",
+    "last_updated": "2026-05-15 02:46:37",
     "contests": [
         {
             "title": "2026년 상반기 삼성생명 금융캠퍼스 한달 교육과정 참가자 모집SPECIAL",
@@ -28,13 +28,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999"
-        },
-        {
-            "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 56기 모집SPECIAL",
-            "organ": "글ego",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106993"
         },
         {
             "title": "제4회 문화체육관광 인공지능·데이터 활용 공모전SPECIAL",
@@ -100,11 +93,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
         },
         {
-            "title": "2026 가족에게 감사메시지 공모전 – Thank You to Family신규",
-            "organ": "H2O품앗이운동본부",
+            "title": "2026 제6회 청송야송미술대전 전국공모신규",
+            "organ": "청송군,사)청송미술협회",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107344"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107379"
+        },
+        {
+            "title": "2026년도 크리에이터 미디어 신직업 육성 사업신규",
+            "organ": "방송미디어통신위원회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107378"
         }
     ]
 }
