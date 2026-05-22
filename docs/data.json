@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-21 02:54:29",
+    "last_updated": "2026-05-22 02:54:38",
     "contests": [
         {
             "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전SPECIAL",
@@ -28,13 +28,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107424"
-        },
-        {
-            "title": "2026년 상반기  삼성생명 금융캠퍼스 한달 교육과정 참가자 모집SPECIAL",
-            "organ": "삼성생명",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107232"
         },
         {
             "title": "[네이버 X 어반플레이] AI BIZ CREATOR SCHOOL 참여자 모집SPECIAL",
@@ -100,11 +93,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
         },
         {
-            "title": "국가유산을 안내하는 대표 목소리를 찾습니다 국가유산 방문 캠페인 오디오 공모전신규",
-            "organ": "국가유산진흥원",
+            "title": "청년 다큐 영화 시나리오 공모전신규",
+            "organ": "Youth Vision Studio",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107558"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107606"
+        },
+        {
+            "title": "[토니모리] 콘텐츠 크리에이터 언커먼 크루 2기 모집신규",
+            "organ": "토니모리",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107601"
         }
     ]
 }
