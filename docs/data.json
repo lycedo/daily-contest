@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-05-22 02:54:38",
+    "last_updated": "2026-05-23 02:39:53",
     "contests": [
+        {
+            "title": "2026년 개인정보 불법유통 대응 대학생 모니터링단 모집SPECIAL",
+            "organ": "개인정보보호위원회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107609"
+        },
         {
             "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전SPECIAL",
             "organ": "국립아시아문화전당",
@@ -93,18 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
         },
         {
-            "title": "청년 다큐 영화 시나리오 공모전신규",
-            "organ": "Youth Vision Studio",
+            "title": "2027 서울 세계청년대회 명동 미디어큐브 & 1898 미디어월 청소년·청년 미디어아트 공모전신규",
+            "organ": "가톨릭평화방송평화신문",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107606"
-        },
-        {
-            "title": "[토니모리] 콘텐츠 크리에이터 언커먼 크루 2기 모집신규",
-            "organ": "토니모리",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107601"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107642"
         }
     ]
 }
