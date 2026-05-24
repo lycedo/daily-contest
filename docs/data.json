@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-05-23 02:39:53",
+    "last_updated": "2026-05-24 02:51:34",
     "contests": [
+        {
+            "title": "[한국문화정보원] 문화PD 24기 모집신규SPECIAL",
+            "organ": "한국문화정보원",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107645"
+        },
         {
             "title": "2026년 개인정보 불법유통 대응 대학생 모니터링단 모집SPECIAL",
             "organ": "개인정보보호위원회",
@@ -98,13 +105,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
-        },
-        {
-            "title": "2027 서울 세계청년대회 명동 미디어큐브 & 1898 미디어월 청소년·청년 미디어아트 공모전신규",
-            "organ": "가톨릭평화방송평화신문",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107642"
         }
     ]
 }
