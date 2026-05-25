@@ -1,8 +1,22 @@
 {
-    "last_updated": "2026-05-24 02:51:34",
+    "last_updated": "2026-05-25 03:27:01",
     "contests": [
         {
-            "title": "[한국문화정보원] 문화PD 24기 모집신규SPECIAL",
+            "title": "제7회 계룡장학재단 건축 아이디어 공모전신규SPECIAL",
+            "organ": "계룡장학재단",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107651"
+        },
+        {
+            "title": "서울 디자인 AI 영상 공모전신규SPECIAL",
+            "organ": "서울특별시",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107650"
+        },
+        {
+            "title": "[한국문화정보원] 문화PD 24기 모집SPECIAL",
             "organ": "한국문화정보원",
             "date": "기한없음",
             "prize": "상세확인",
@@ -70,13 +84,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106851"
-        },
-        {
-            "title": "2026 대학생 논문경진대회 장애의 재해석 공모전SPECIALIDEA",
-            "organ": "한국장애인재단",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106850"
         },
         {
             "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전SPECIAL",
