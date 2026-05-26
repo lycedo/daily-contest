@@ -1,15 +1,15 @@
 {
-    "last_updated": "2026-05-25 03:27:01",
+    "last_updated": "2026-05-26 02:47:36",
     "contests": [
         {
-            "title": "제7회 계룡장학재단 건축 아이디어 공모전신규SPECIAL",
+            "title": "제7회 계룡장학재단 건축 아이디어 공모전SPECIAL",
             "organ": "계룡장학재단",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107651"
         },
         {
-            "title": "서울 디자인 AI 영상 공모전신규SPECIAL",
+            "title": "서울 디자인 AI 영상 공모전SPECIAL",
             "organ": "서울특별시",
             "date": "기한없음",
             "prize": "상세확인",
@@ -79,13 +79,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106965"
         },
         {
-            "title": "[문화체육관광부 x 한국콘텐츠진흥원] 2026 K-콘텐츠 수출 마케터 양성 교육 5기 교육생 모집SPECIAL",
-            "organ": "문화체육관광부, 한국콘텐츠진흥원",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106851"
-        },
-        {
             "title": "2026년 전주MBC K-하이테크 플랫폼 제2회 가상현실 공간 창작 공모전SPECIAL",
             "organ": "전주MBC K-하이테크 플랫폼",
             "date": "기한없음",
@@ -112,6 +105,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
+        },
+        {
+            "title": "롯데월드타워·몰 JAMSIL CREW 1기 서포터즈 모집",
+            "organ": "롯데물산",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107648"
         }
     ]
 }
