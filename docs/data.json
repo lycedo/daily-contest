@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-05-26 02:47:36",
+    "last_updated": "2026-05-27 02:59:24",
     "contests": [
+        {
+            "title": "한화생명금융서비스 WM컨설팅지사 금융영업캠퍼스 1기 모집신규SPECIAL",
+            "organ": "한화생명금융서비스",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107672"
+        },
         {
             "title": "제7회 계룡장학재단 건축 아이디어 공모전SPECIAL",
             "organ": "계룡장학재단",
@@ -105,13 +112,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
-        },
-        {
-            "title": "롯데월드타워·몰 JAMSIL CREW 1기 서포터즈 모집",
-            "organ": "롯데물산",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107648"
         }
     ]
 }
