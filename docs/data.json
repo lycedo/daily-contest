@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-05-28 02:46:14",
+    "last_updated": "2026-05-29 02:50:07",
     "contests": [
+        {
+            "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전신규SPECIAL",
+            "organ": "문화체육관광부",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107781"
+        },
         {
             "title": "한화생명금융서비스 WM컨설팅지사 금융영업캠퍼스 1기 모집SPECIAL",
             "organ": "한화생명금융서비스",
@@ -9,7 +16,7 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107672"
         },
         {
-            "title": "제7회 계룡장학재단 건축 아이디어 공모전SPECIAL",
+            "title": "제7회 계룡장학재단 건축 아이디어 공모전SPECIALIDEA",
             "organ": "계룡장학재단",
             "date": "기한없음",
             "prize": "상세확인",
