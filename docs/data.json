@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-31 03:25:07",
+    "last_updated": "2026-06-01 03:37:48",
     "contests": [
         {
             "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전SPECIAL",
@@ -37,13 +37,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107645"
         },
         {
-            "title": "2026년 개인정보 불법유통 대응 대학생 모니터링단 모집SPECIAL",
-            "organ": "개인정보보호위원회",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107609"
-        },
-        {
             "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전SPECIAL",
             "organ": "국립아시아문화전당",
             "date": "기한없음",
@@ -70,13 +63,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107424"
-        },
-        {
-            "title": "[네이버 X 어반플레이] AI BIZ CREATOR SCHOOL 참여자 모집SPECIAL",
-            "organ": "네이버 X 어반플레이",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107186"
         },
         {
             "title": "2026 제15회 협성독서왕 독후감 공모전SPECIAL",
@@ -107,18 +93,32 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105948"
         },
         {
-            "title": "제13회 산업안전보건 조사자료 논문 경진대회SPECIALIDEA",
-            "organ": "한국산업안전보건공단 산업안전보건연구원",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105566"
-        },
-        {
             "title": "제10회 소비자지향성 개선과제 공모전SPECIALIDEA",
             "organ": "공정거래위원회",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
+        },
+        {
+            "title": "[메타툰] 여성향 단편 노블코믹스 작화 모집 공모전신규",
+            "organ": "주식회사 메타툰",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107829"
+        },
+        {
+            "title": "TJ 대학생 서포터즈 티플즈 11기 모집신규",
+            "organ": "TJ미디어",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107828"
+        },
+        {
+            "title": "상상이 현실이 되는 경남여행 - 2026 경남 관광 AI 홍보 영상 공모전신규",
+            "organ": "(재)경남관광재단",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107825"
         }
     ]
 }
