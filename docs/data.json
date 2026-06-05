@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-06-04 03:37:07",
+    "last_updated": "2026-06-05 02:59:11",
     "contests": [
+        {
+            "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전신규SPECIAL",
+            "organ": "국어문화원연합회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107977"
+        },
         {
             "title": "2026년 KB Dream Wave 2030 KB라스쿨 중등 ４기 멘토링 멘토 모집SPECIAL",
             "organ": "KB국민은행",
@@ -112,13 +119,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
-        },
-        {
-            "title": "2026 국방기술을 활용한 창업경진대회 참가자 모집",
-            "organ": "방위사업청",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107940"
         }
     ]
 }
