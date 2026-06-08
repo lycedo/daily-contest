@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-06-07 03:29:55",
+    "last_updated": "2026-06-08 03:35:18",
     "contests": [
         {
             "title": "2026 쉬운 우리말 쓰기 영상 제작 공모전SPECIAL",
@@ -56,13 +56,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107650"
-        },
-        {
-            "title": "[한국문화정보원] 문화PD 24기 모집SPECIAL",
-            "organ": "한국문화정보원",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107645"
         },
         {
             "title": "[국립아시아문화전당] 2026 ACC 민주·인권·평화 영상(+AI) 콘텐츠 공모전SPECIAL",
@@ -126,6 +119,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
+        },
+        {
+            "title": "제11회 모의행정심판 경연대회신규",
+            "organ": "국민권익위원회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108050"
         }
     ]
 }
