@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-06-13 02:57:54",
+    "last_updated": "2026-06-14 03:36:14",
     "contests": [
         {
-            "title": "2026년 상반기 삼성생명 금융캠퍼스 모집신규SPECIAL",
+            "title": "2026년 상반기 삼성생명 금융캠퍼스 모집SPECIAL",
             "organ": "삼성생명",
             "date": "기한없음",
             "prize": "상세확인",
@@ -49,13 +49,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107781"
-        },
-        {
-            "title": "한화생명금융서비스 WM컨설팅지사 금융영업캠퍼스 1기 모집SPECIAL",
-            "organ": "한화생명금융서비스",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107672"
         },
         {
             "title": "제7회 계룡장학재단 건축 아이디어 공모전SPECIALIDEA",
@@ -135,11 +128,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
         },
         {
-            "title": "2026 국방창업경진대회신규",
+            "title": "2026 국방창업경진대회",
             "organ": "대한민국 국방부",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108279"
+        },
+        {
+            "title": "제28회 전국청소년자원봉사대회",
+            "organ": "KB라이프생명사회공헌재단, 한국중등교장협의회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108277"
         }
     ]
 }
