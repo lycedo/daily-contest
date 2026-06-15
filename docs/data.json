@@ -1,6 +1,27 @@
 {
-    "last_updated": "2026-06-14 03:36:14",
+    "last_updated": "2026-06-15 03:50:19",
     "contests": [
+        {
+            "title": "2026 성평등 영상 콘텐츠 공모전신규SPECIAL",
+            "organ": "제주특별자치도",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108289"
+        },
+        {
+            "title": "2026년 임업통계 활용 경진대회신규SPECIAL",
+            "organ": "산림청",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108288"
+        },
+        {
+            "title": "제4회 대한민국 청년 인재양성 프로젝트 참가자 모집신규SPECIAL",
+            "organ": "iM금융그룹",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108287"
+        },
         {
             "title": "2026년 상반기 삼성생명 금융캠퍼스 모집SPECIAL",
             "organ": "삼성생명",
@@ -128,18 +149,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105362"
         },
         {
-            "title": "2026 국방창업경진대회",
-            "organ": "대한민국 국방부",
+            "title": "2026년 현대자동차그룹 K-뉴딜 아카데미 HINT 교육생 모집신규",
+            "organ": "현대자동차그룹",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108279"
-        },
-        {
-            "title": "제28회 전국청소년자원봉사대회",
-            "organ": "KB라이프생명사회공헌재단, 한국중등교장협의회",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108277"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108286"
         }
     ]
 }
