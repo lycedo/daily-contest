@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-06-17 03:40:16",
+    "last_updated": "2026-06-18 03:31:45",
     "contests": [
+        {
+            "title": "2026 CHAI 대학생 AI 광고 공모전신규SPECIAL",
+            "organ": "차이커뮤니케이션",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108417"
+        },
         {
             "title": "2026 성평등 영상 콘텐츠 공모전SPECIAL",
             "organ": "제주특별자치도",
@@ -56,13 +63,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107947"
-        },
-        {
-            "title": "2026년 KB Dream Wave 2030 KB라스쿨 중등 ４기 멘토링 멘토 모집SPECIAL",
-            "organ": "KB국민은행",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107939"
         },
         {
             "title": "[무료] 2026년 7월 삼성생명 Special 금융아카데미 모집SPECIAL",
@@ -149,11 +149,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105948"
         },
         {
-            "title": "4회 한운사청소년문학상 공모신규",
-            "organ": "동양일보문화기획단",
+            "title": "2026 큐챔스 CUBE CHAMPIONS LEAGUE신규",
+            "organ": "E스포츠연합동아리 CUBE",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108371"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108415"
         }
     ]
 }
