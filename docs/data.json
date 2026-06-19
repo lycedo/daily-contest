@@ -1,8 +1,22 @@
 {
-    "last_updated": "2026-06-18 03:31:45",
+    "last_updated": "2026-06-19 03:54:11",
     "contests": [
         {
-            "title": "2026 CHAI 대학생 AI 광고 공모전신규SPECIAL",
+            "title": "제7회 좋은데이 미술대전신규SPECIAL",
+            "organ": "좋은데이나눔재단",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108461"
+        },
+        {
+            "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중신규SPECIAL",
+            "organ": "작필(作筆)",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108453"
+        },
+        {
+            "title": "2026 CHAI 대학생 AI 광고 공모전SPECIAL",
             "organ": "차이커뮤니케이션",
             "date": "기한없음",
             "prize": "상세확인",
@@ -147,13 +161,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105948"
-        },
-        {
-            "title": "2026 큐챔스 CUBE CHAMPIONS LEAGUE신규",
-            "organ": "E스포츠연합동아리 CUBE",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108415"
         }
     ]
 }
