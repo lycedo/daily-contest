@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-06-21 03:42:42",
+    "last_updated": "2026-06-22 03:47:36",
     "contests": [
+        {
+            "title": "제 5회 그린이니셔티브 60초 영화제 공모전신규SPECIAL",
+            "organ": "제주MBC",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108509"
+        },
         {
             "title": "제7회 좋은데이 미술대전SPECIAL",
             "organ": "좋은데이나눔재단",
@@ -161,6 +168,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105948"
+        },
+        {
+            "title": "제주항공우주박물관 홍보소통단 MAUS(마우스) 1기 모집",
+            "organ": "JDC",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108497"
         }
     ]
 }
