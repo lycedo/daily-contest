@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-06-28 03:25:01",
+    "last_updated": "2026-06-29 03:30:20",
     "contests": [
+        {
+            "title": "2026년 장애인 분야 해커톤 대회 (장애 플러스 기술)신규SPECIAL",
+            "organ": "한국장애인재단",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108707"
+        },
         {
             "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전SPECIAL",
             "organ": "코웨이",
@@ -175,13 +182,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108691"
-        },
-        {
-            "title": "제8회 치매인식개선 창작시 공모전",
-            "organ": "대전광역시립제1노인전문병원",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108689"
         }
     ]
 }
