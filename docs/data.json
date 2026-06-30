@@ -1,8 +1,15 @@
 {
-    "last_updated": "2026-06-29 03:30:20",
+    "last_updated": "2026-06-30 02:55:01",
     "contests": [
         {
-            "title": "2026년 장애인 분야 해커톤 대회 (장애 플러스 기술)신규SPECIAL",
+            "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 57기 모집신규SPECIAL",
+            "organ": "글ego",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108746"
+        },
+        {
+            "title": "2026년 장애인 분야 해커톤 대회 (장애 플러스 기술)SPECIAL",
             "organ": "한국장애인재단",
             "date": "기한없음",
             "prize": "상세확인",
@@ -156,32 +163,25 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106656"
         },
         {
-            "title": "2026년도 제31회 경기도 건축문화상 공모전 (계획작품 부문 / 사용승인 건축물 부문)SPECIAL",
-            "organ": "경기건축문화제 추진위원회",
+            "title": "풀무원샘물 하루귀리 대학생 서포터즈 모집신규",
+            "organ": "풀무원",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=105948"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108744"
         },
         {
-            "title": "2026 시니어 일자리 경진대회",
-            "organ": "서울시50플러스재단",
+            "title": "2026이천유니버스 코스프레대회 참가자 모집신규",
+            "organ": "이천문화원",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108700"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108742"
         },
         {
-            "title": "2026 항공일자리 청년 서포터즈 모집",
-            "organ": "항공일자리센터",
+            "title": "제1회 해냄 청소년 인문 사회 도서 공모전신규",
+            "organ": "(주)해냄에듀",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108695"
-        },
-        {
-            "title": "원자력안전정보공유포털 AI 캐릭터 공모전",
-            "organ": "원자력안전정보공유포털",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108691"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108740"
         }
     ]
 }
