@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-07-01 03:25:19",
+    "last_updated": "2026-07-02 02:51:19",
     "contests": [
+        {
+            "title": "[무료] 2026년 8월 삼성생명 Special 금융아카데미 모집신규SPECIAL",
+            "organ": "삼성생명",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108797"
+        },
         {
             "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 57기 모집SPECIAL",
             "organ": "글ego",
@@ -142,25 +149,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106656"
         },
         {
-            "title": "2026 일상 속 여성폭력 예방·대응 사례 공모전신규",
-            "organ": "한국여성인권진흥원",
+            "title": "2026 기아(주), 서초경찰서와 함께 하는 청소년 안전 동화책 제작 프로젝트 청소년 동화 그림 작가 모집신규",
+            "organ": "기아(주), 서초경찰서, 방배ART유스센터",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108791"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108840"
         },
         {
-            "title": "제18회 서울국제건축영화제 자원활동가 씨앗프렌즈 모집신규",
-            "organ": "서울국제건축영화제",
+            "title": "[FNDM] K-POP 팬덤 트레이드 플랫폼 FNDM Crew 1기 모집신규",
+            "organ": "컬처코드",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108789"
-        },
-        {
-            "title": "제9회 김명배문학상 공모신규",
-            "organ": "김명배문학상운영위원회",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108787"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108836"
         }
     ]
 }
