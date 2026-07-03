@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-07-02 02:51:19",
+    "last_updated": "2026-07-03 02:34:18",
     "contests": [
         {
-            "title": "[무료] 2026년 8월 삼성생명 Special 금융아카데미 모집신규SPECIAL",
+            "title": "[무료] 2026년 8월 삼성생명 Special 금융아카데미 모집SPECIAL",
             "organ": "삼성생명",
             "date": "기한없음",
             "prize": "상세확인",
@@ -56,13 +56,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108461"
-        },
-        {
-            "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중SPECIAL",
-            "organ": "작필(作筆)",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108453"
         },
         {
             "title": "2026 CHAI 대학생 AI 광고 공모전SPECIAL",
@@ -149,18 +142,25 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106656"
         },
         {
-            "title": "2026 기아(주), 서초경찰서와 함께 하는 청소년 안전 동화책 제작 프로젝트 청소년 동화 그림 작가 모집신규",
-            "organ": "기아(주), 서초경찰서, 방배ART유스센터",
+            "title": "제18회 예스코 가스안전 포스터 · 카툰 공모전신규",
+            "organ": "(주)예스코",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108840"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108888"
         },
         {
-            "title": "[FNDM] K-POP 팬덤 트레이드 플랫폼 FNDM Crew 1기 모집신규",
-            "organ": "컬처코드",
+            "title": "제4회 THE 뮤지컬 콩쿠르 2026신규",
+            "organ": "K-CLASSIC STAGE",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108836"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108886"
+        },
+        {
+            "title": "2026 군인권보호관 슬로건 공모전신규",
+            "organ": "국가인권위원회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108885"
         }
     ]
 }
