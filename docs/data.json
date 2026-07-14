@@ -1,15 +1,22 @@
 {
-    "last_updated": "2026-07-13 02:24:21",
+    "last_updated": "2026-07-14 02:03:55",
     "contests": [
         {
-            "title": "2026 대전 AI 영상 공모전신규SPECIAL",
+            "title": "제2회 매일유업 대학생 AI 영상 공모전SPECIAL",
+            "organ": "매일유업",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109144"
+        },
+        {
+            "title": "2026 대전 AI 영상 공모전SPECIAL",
             "organ": "대전광역시",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109142"
         },
         {
-            "title": "[KB국민은행] 제 8회  KB A.I Challenge신규SPECIAL",
+            "title": "[KB국민은행] 제 8회  KB A.I ChallengeSPECIAL",
             "organ": "KB국민은행",
             "date": "기한없음",
             "prize": "상세확인",
@@ -28,13 +35,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108797"
-        },
-        {
-            "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 57기 모집SPECIAL",
-            "organ": "글ego",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108746"
         },
         {
             "title": "2026년 장애인 분야 해커톤 대회 (장애 플러스 기술)SPECIAL",
@@ -156,11 +156,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106656"
         },
         {
-            "title": "2026년 국립부산국악원 영남춤축제 서포터즈 모집",
-            "organ": "국립부산국악원",
+            "title": "[KB국민은행] 2026년 하반기 청년 디지털 서포터즈 모집신규",
+            "organ": "KB국민은행",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109136"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109199"
         }
     ]
 }
