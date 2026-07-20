@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-19 02:15:01",
+    "last_updated": "2026-07-20 03:13:15",
     "contests": [
         {
             "title": "제2회 매일유업 대학생 AI 영상 공모전SPECIAL",
@@ -100,13 +100,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108288"
         },
         {
-            "title": "넥슨 영 프로그래머스 컵 (NEXON Young Programmers Cup)SPECIAL",
-            "organ": "넥슨",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107947"
-        },
-        {
             "title": "2026 HiKR MEDIA ART(하이커 미디어 아트) 공모전SPECIAL",
             "organ": "문화체육관광부",
             "date": "기한없음",
@@ -142,25 +135,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999"
         },
         {
-            "title": "일상·사회문제 해결 R&D 아이디어 공모전",
-            "organ": "국토교통과학기술진흥원",
+            "title": "2026 동피랑 페인트 페스타 전국 대상 벽화 디자인 공모전신규",
+            "organ": "통영시",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109317"
-        },
-        {
-            "title": "현대백화점 U-PLEX 서포터즈 3기 모집",
-            "organ": "현대백화점",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109316"
-        },
-        {
-            "title": "2026년 국립서울현충원 제6회 나라사랑 보드게임 대회",
-            "organ": "국가보훈부 국립서울현충원",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109315"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109351"
         }
     ]
 }
