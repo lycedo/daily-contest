@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-07-22 02:11:26",
+    "last_updated": "2026-07-23 02:23:12",
     "contests": [
+        {
+            "title": "2026년 상반기 삼성생명 금융캠퍼스 참가자 모집SPECIAL",
+            "organ": "삼성생명",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109452"
+        },
         {
             "title": "제2회 매일유업 대학생 AI 영상 공모전SPECIAL",
             "organ": "매일유업",
@@ -21,13 +28,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109141"
-        },
-        {
-            "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중SPECIAL",
-            "organ": "작필(作筆)",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109007"
         },
         {
             "title": "[무료] 2026년 8월 삼성생명 Special 금융아카데미 모집SPECIAL",
@@ -135,11 +135,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999"
         },
         {
-            "title": "제 2회 글로벌도시관광서밋 모집신규",
-            "organ": "부산광역시, 글로도시관광 진흥기구, 부산관광공사",
+            "title": "국가통합바이오빅데이터구축사업 대학생 서포터즈 2기 모집신규",
+            "organ": "국가통합바이오빅데이터구축사업단(한국보건산업진흥원)",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109438"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109489"
         }
     ]
 }
