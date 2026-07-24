@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-07-23 02:23:12",
+    "last_updated": "2026-07-24 02:14:55",
     "contests": [
+        {
+            "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모신규SPECIAL",
+            "organ": "한국중부발전(주)",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109527"
+        },
         {
             "title": "2026년 상반기 삼성생명 금융캠퍼스 참가자 모집SPECIAL",
             "organ": "삼성생명",
@@ -133,13 +140,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999"
-        },
-        {
-            "title": "국가통합바이오빅데이터구축사업 대학생 서포터즈 2기 모집신규",
-            "organ": "국가통합바이오빅데이터구축사업단(한국보건산업진흥원)",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109489"
         }
     ]
 }
