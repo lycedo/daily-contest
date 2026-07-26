@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-25 02:13:15",
+    "last_updated": "2026-07-26 02:24:40",
     "contests": [
         {
             "title": "2026 KOMIPO 혁신 50대 과제 대국민 아이디어 공모SPECIAL",
@@ -42,13 +42,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108797"
-        },
-        {
-            "title": "2026년 장애인 분야 해커톤 대회 (장애 플러스 기술)SPECIAL",
-            "organ": "한국장애인재단",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108707"
         },
         {
             "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전SPECIAL",
@@ -140,6 +133,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999"
+        },
+        {
+            "title": "2026 경상북도 도민 체감형 AX 경진대회신규",
+            "organ": "경상북도",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109565"
         }
     ]
 }
