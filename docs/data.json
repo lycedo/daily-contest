@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-28 02:07:05",
+    "last_updated": "2026-07-29 02:10:16",
     "contests": [
         {
             "title": "제17회 LH 국토기술대전SPECIAL",
@@ -42,13 +42,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109141"
-        },
-        {
-            "title": "[무료] 2026년 8월 삼성생명 Special 금융아카데미 모집SPECIAL",
-            "organ": "삼성생명",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108797"
         },
         {
             "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전SPECIAL",
@@ -140,6 +133,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999"
+        },
+        {
+            "title": "잡월드 청년 응원 프로젝트 너의 근황을 들려줘 공모전신규",
+            "organ": "한국잡월드",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109653"
         }
     ]
 }
