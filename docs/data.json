@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-30 01:59:25",
+    "last_updated": "2026-07-31 02:25:15",
     "contests": [
         {
             "title": "제17회 LH 국토기술대전SPECIAL",
@@ -44,13 +44,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109141"
         },
         {
-            "title": "코웨이 비렉스 AI 영상 광고 · 숏폼 공모전SPECIAL",
-            "organ": "코웨이",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108662"
-        },
-        {
             "title": "2026년 미래여성경제인육성사업 창업아이디어 멘토링•IP권리화 프로그램 참가자 모집SPECIAL",
             "organ": "중소벤처기업부",
             "date": "기한없음",
@@ -72,25 +65,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108509"
         },
         {
-            "title": "제7회 좋은데이 미술대전SPECIAL",
+            "title": "제7회 좋은데이 미술대전SPECIALIDEA",
             "organ": "좋은데이나눔재단",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108461"
-        },
-        {
-            "title": "2026 CHAI 대학생 AI 광고 공모전SPECIAL",
-            "organ": "차이커뮤니케이션",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108417"
-        },
-        {
-            "title": "2026 성평등 영상 콘텐츠 공모전SPECIAL",
-            "organ": "제주특별자치도",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108289"
         },
         {
             "title": "2026년 임업통계 활용 경진대회SPECIAL",
@@ -114,20 +93,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107427"
         },
         {
-            "title": "2026 한국수력원자력 기업이미지 공모전SPECIAL",
-            "organ": "한국수력원자력",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107426"
-        },
-        {
-            "title": "2026 한국수력원자력 유튜브 짧은영상 공모전SPECIALIDEA",
-            "organ": "한국수력원자력",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107425"
-        },
-        {
             "title": "2026 제15회 협성독서왕 독후감 공모전SPECIALIDEA",
             "organ": "협성문화재단•북두칠성도서관",
             "date": "기한없음",
@@ -135,11 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106999"
         },
         {
-            "title": "[서울청년센터 성북] 2026년 성북 청년 커뮤니티 지원사업 와글와글 성북마을 하반기 소모임형 커뮤니티 모집신규",
-            "organ": "서울청년센터 성북",
+            "title": "2026 부산다큐멘터리필름페스티발 자원활동가 모집신규",
+            "organ": "2026부산다큐멘터리필름페스티발집행위원회",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109679"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109712"
         }
     ]
 }
