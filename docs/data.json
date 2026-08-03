@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-02 02:23:17",
+    "last_updated": "2026-08-03 02:25:34",
     "contests": [
         {
             "title": "제17회 LH 국토기술대전SPECIAL",
@@ -14,13 +14,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109527"
-        },
-        {
-            "title": "2026년 상반기 삼성생명 금융캠퍼스 참가자 모집SPECIAL",
-            "organ": "삼성생명",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109452"
         },
         {
             "title": "제2회 매일유업 대학생 AI 영상 공모전SPECIAL",
@@ -105,6 +98,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109738"
+        },
+        {
+            "title": "총연합회장배 2026천안전국실용무용대회",
+            "organ": "천안종합실용무용총연합회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109736"
         }
     ]
 }
