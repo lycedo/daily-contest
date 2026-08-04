@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-03 02:25:34",
+    "last_updated": "2026-08-04 02:05:31",
     "contests": [
         {
             "title": "제17회 LH 국토기술대전SPECIAL",
@@ -28,13 +28,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109142"
-        },
-        {
-            "title": "[KB국민은행] 제 8회  KB A.I ChallengeSPECIAL",
-            "organ": "KB국민은행",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109141"
         },
         {
             "title": "2026 장애 공감 공모전SPECIALIDEA",
@@ -93,18 +86,25 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
         },
         {
-            "title": "청소년이 만드는 재단 캐릭터 AI 영상 공모전",
-            "organ": "(재)순천문화재단",
+            "title": "2026 제9회 핀테크 아이디어 공모전신규",
+            "organ": "금융위원회",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109738"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109794"
         },
         {
-            "title": "총연합회장배 2026천안전국실용무용대회",
-            "organ": "천안종합실용무용총연합회",
+            "title": "2026 판타지아대구페스타 AI 콘텐츠 공모전신규",
+            "organ": "대구광역시",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109736"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109792"
+        },
+        {
+            "title": "제 3회 일제강제동원 영상 공모전신규",
+            "organ": "일제강제동원피해자지원재단",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109791"
         }
     ]
 }
