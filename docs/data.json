@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-23 01:03:09",
+    "last_updated": "2026-08-24 01:00:59",
     "contests": [
         {
             "title": "6주 만에 책을 내고 작가가 되세요! ! 누구나 참여 가능합니다! 58기 모집SPECIAL",
@@ -35,13 +35,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110012"
-        },
-        {
-            "title": "KB스타즈 여자프로농구단 대학생 홍보대사 16기 모집SPECIAL",
-            "organ": "KB스타즈",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109974"
         },
         {
             "title": "제8회 오티콘챌린지 공모전SPECIALIDEA",
@@ -100,11 +93,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
         },
         {
-            "title": "2026 연암대학교 스마트원예 전공 경진대회 (전국 고등학생)신규",
+            "title": "2026 연암대학교 스마트원예 전공 경진대회 (전국 고등학생)",
             "organ": "연암대학교",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110376"
+        },
+        {
+            "title": "[2026 국제 컨퍼런스]AI와 기술 시대의 갈등 해결 및 대안적 분쟁 해결 국제 컨퍼런스 학생 연구논문 및 발표자 공모 (Call for Student Papers & Presenters)",
+            "organ": "한국조지메이슨대학교 분쟁분석 및 해결학과, 아시아 평화와 분쟁 연구센터(PACSC Asia), 그리고 GRO(Global Mediation and Community Resoluti",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110373"
         }
     ]
 }
