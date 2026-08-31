@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-08-30 03:19:24",
+    "last_updated": "2026-08-31 03:15:16",
     "contests": [
+        {
+            "title": "2026 0924영상제 영상 공모전신규SPECIAL",
+            "organ": "하남시청소년수련관",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110585"
+        },
         {
             "title": "제5회 2026 대한민국 고등학생 AI•SW 개발 공모전SPECIAL",
             "organ": "한국인공지능•소프트웨어산업협회",
@@ -51,11 +58,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109579"
         },
         {
-            "title": "제52회 전국여성 독후감 대회SPECIAL",
-            "organ": "(사)대한어머니회중앙회",
+            "title": "[월간좋은생각] 제11회 청년이야기 대상SPECIAL",
+            "organ": "좋은생각사람들",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108474"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108892"
         },
         {
             "title": "제7회 좋은데이 미술대전SPECIALIDEA",
@@ -63,6 +70,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108461"
+        },
+        {
+            "title": "2026년 디지털윤리 창작콘텐츠 공모전SPECIAL",
+            "organ": "방송미디어통신위원회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107830"
         },
         {
             "title": "제26회 가람이병기청년시·최명희청년소설 문학상 공모SPECIAL",
@@ -86,25 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
         },
         {
-            "title": "2026년 제1회 경기미쌀떡볶이 경연대회",
-            "organ": "경기도",
+            "title": "2026 대학생과 함께하는 도시재생사업 RE: Make City Challenge신규",
+            "organ": "천안시 도시재생지원센터",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110572"
-        },
-        {
-            "title": "2026 광명업사이클아트센터 업사이클 브릭아트 공모전",
-            "organ": "광명업사이클아트센터",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110571"
-        },
-        {
-            "title": "2026 동피랑 페인트 페스타 전국 참여자 모집 공고",
-            "organ": "통영시",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110568"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110593"
         }
     ]
 }
