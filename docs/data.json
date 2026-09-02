@@ -1,22 +1,43 @@
 {
-    "last_updated": "2026-09-01 03:18:16",
+    "last_updated": "2026-09-02 02:36:35",
     "contests": [
         {
-            "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지신규SPECIAL",
+            "title": "2026년 스포츠토토 숏폼 공모전신규SPECIAL",
+            "organ": "국민체육진흥공단",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110678"
+        },
+        {
+            "title": "[과학기술정보통신부] 제3회 미래융합인재 발굴 소프트웨어 챌린지신규SPECIAL",
+            "organ": "과학기술정보통신부",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110675"
+        },
+        {
+            "title": "2026 연암대학교 스마트원예 전공 경진대회 (전국 고등학생)신규SPECIAL",
+            "organ": "연암대학교",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110655"
+        },
+        {
+            "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지SPECIAL",
             "organ": "한국문화정보원",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110633"
         },
         {
-            "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 양성 과정 참여자 모집 (L.L.M. 아카데미)신규SPECIAL",
+            "title": "[무료] [CJ올리브네트웍스] AI 서비스 기획자 양성 과정 참여자 모집 (L.L.M. 아카데미)SPECIAL",
             "organ": "CJ올리브네트웍스",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110623"
         },
         {
-            "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회신규SPECIAL",
+            "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회SPECIAL",
             "organ": "중소벤처기업부",
             "date": "기한없음",
             "prize": "상세확인",
@@ -65,20 +86,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109883"
         },
         {
-            "title": "제3회 전국 K스토리 공모전SPECIAL",
-            "organ": "문화체육관광부, 충청북도, 진천군, 한국콘텐츠진흥원",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109579"
-        },
-        {
-            "title": "[월간좋은생각] 제11회 청년이야기 대상SPECIAL",
-            "organ": "좋은생각사람들",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108892"
-        },
-        {
             "title": "제7회 좋은데이 미술대전SPECIALIDEA",
             "organ": "좋은데이나눔재단",
             "date": "기한없음",
@@ -98,13 +105,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107135"
-        },
-        {
-            "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전SPECIAL",
-            "organ": "충청남도",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
         }
     ]
 }
