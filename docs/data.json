@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-05 02:41:35",
+    "last_updated": "2026-09-06 02:38:52",
     "contests": [
         {
             "title": "2026년 스포츠토토 숏폼 공모전SPECIAL",
@@ -79,13 +79,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109883"
         },
         {
-            "title": "제7회 좋은데이 미술대전SPECIALIDEA",
-            "organ": "좋은데이나눔재단",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=108461"
-        },
-        {
             "title": "2026년 디지털윤리 창작콘텐츠 공모전SPECIAL",
             "organ": "방송미디어통신위원회",
             "date": "기한없음",
@@ -93,18 +86,25 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107830"
         },
         {
-            "title": "17회 부산평화영화제 자원활동가 모집신규",
+            "title": "2026 남이섬 AI 영상 광고 숏폼 가을 공모전",
+            "organ": "(주)남이섬",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110783"
+        },
+        {
+            "title": "[안무가 매칭 프로젝트 제28회 생생 춤 페스티벌] 생생 리포터 모집",
+            "organ": "(사)한국현대무용협회",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110782"
+        },
+        {
+            "title": "17회 부산평화영화제 자원활동가 모집",
             "organ": "부산어린이어깨동무",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110779"
-        },
-        {
-            "title": "서대문장애인종합복지관 개관 28주년 기념 마스코트 공모전신규",
-            "organ": "서대문장애인종합복지관",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110778"
         }
     ]
 }
