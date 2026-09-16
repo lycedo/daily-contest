@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-15 03:08:57",
+    "last_updated": "2026-09-16 03:04:47",
     "contests": [
         {
             "title": "2026년 스포츠토토 숏폼 공모전SPECIAL",
@@ -14,13 +14,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110675"
-        },
-        {
-            "title": "2026 연암대학교 스마트원예 전공 경진대회 (전국 고등학생)SPECIAL",
-            "organ": "연암대학교",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110655"
         },
         {
             "title": "[문화체육관광부×한국문화정보원] 문화데이터 활용 영상 제작 AI 챌린지SPECIAL",
@@ -86,25 +79,32 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
         },
         {
-            "title": "공공 웹사이트 불법광고 탐지 도구 개발 공모전신규",
-            "organ": "행정안전부",
+            "title": "온라인정책방 정책제안 특별공모신규",
+            "organ": "광진구청",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110998"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111033"
         },
         {
-            "title": "청소년 로봇대회 제2회 유스올림피아드신규",
-            "organ": "중원유스센터",
+            "title": "2026 아주국제미술대전신규",
+            "organ": "국제신문방송미디어교류협회",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110995"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111032"
         },
         {
-            "title": "충청북도사회서비스원 기관 홍보 캐릭터 도민 아이디어 공모전신규",
-            "organ": "충청북도사회서비스원",
+            "title": "[교육부x데상트스포츠재단] 2026 무브 챌린지 공모전(초/중/고 학생)신규",
+            "organ": "재단법인 데상트스포츠재단",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110994"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111027"
+        },
+        {
+            "title": "2026 제2회 반려식물 시화작품 경진대회신규",
+            "organ": "국립원예특작과학원",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111026"
         }
     ]
 }
