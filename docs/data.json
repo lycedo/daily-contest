@@ -1,6 +1,13 @@
 {
-    "last_updated": "2026-09-17 03:08:53",
+    "last_updated": "2026-09-18 02:56:20",
     "contests": [
+        {
+            "title": "(4주) 신춘문예 작가님에게 글쓰기를 배워보세요! 참여자 모집 중신규SPECIAL",
+            "organ": "작필(作筆)",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111114"
+        },
         {
             "title": "2026년 스포츠토토 숏폼 공모전SPECIAL",
             "organ": "국민체육진흥공단",
@@ -23,13 +30,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110633"
         },
         {
-            "title": "2026년 제6회 K-인공지능(AI) 제조데이터 분석 경진대회SPECIALIDEA",
-            "organ": "중소벤처기업부",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110622"
-        },
-        {
             "title": "2026 0924영상제 영상 공모전SPECIALIDEA",
             "organ": "하남시청소년수련관",
             "date": "기한없음",
@@ -44,7 +44,7 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110530"
         },
         {
-            "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)SPECIAL",
+            "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)SPECIALIDEA",
             "organ": "Da-Ho Construction Co., Ltd.",
             "date": "기한없음",
             "prize": "상세확인",
@@ -93,18 +93,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
         },
         {
-            "title": "2026 진주국제재즈페스티벌 서포터즈 JJ프렌즈 모집신규",
-            "organ": "진주국제재즈페스티벌 조직위원회",
+            "title": "제 3회 송파 글로벌 AI영화음악 축제신규",
+            "organ": "AI영화조직위원회",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111063"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111104"
         },
         {
-            "title": "제4회 경남 AI·SW 경진대회신규",
-            "organ": "경상남도, 창원특례시, 진주시",
+            "title": "인간존엄 모금광고 스토리보드 공모전신규",
+            "organ": "발전대안 피다",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111062"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111100"
         }
     ]
 }
