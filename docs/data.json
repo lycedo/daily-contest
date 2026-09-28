@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-27 03:22:31",
+    "last_updated": "2026-09-28 03:20:02",
     "contests": [
         {
             "title": "스파크업 : 모두의 에너지 (에너지 창업 경연대회)SPECIAL",
@@ -44,13 +44,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110585"
         },
         {
-            "title": "제5회 2026 대한민국 고등학생 AI•SW 개발 공모전SPECIAL",
-            "organ": "한국인공지능•소프트웨어산업협회",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110530"
-        },
-        {
             "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)SPECIALIDEA",
             "organ": "Da-Ho Construction Co., Ltd.",
             "date": "기한없음",
@@ -93,7 +86,7 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
         },
         {
-            "title": "2026전국청소년평화통일랩경연대회신규",
+            "title": "2026전국청소년평화통일랩경연대회",
             "organ": "민주평통 전남지역회의",
             "date": "기한없음",
             "prize": "상세확인",
@@ -105,6 +98,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111285"
+        },
+        {
+            "title": "제1회 지역 현안 해결 솔루션 챌린지",
+            "organ": "과학기술정보통신부",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111283"
         }
     ]
 }
