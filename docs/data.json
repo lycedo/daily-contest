@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-09-29 03:57:09",
+    "last_updated": "2026-09-30 03:44:30",
     "contests": [
         {
-            "title": "LG 대국민 미소 사진 공모전 - 스마일 모먼트신규SPECIAL",
+            "title": "LG 대국민 미소 사진 공모전 - 스마일 모먼트SPECIAL",
             "organ": "LG",
             "date": "기한없음",
             "prize": "상세확인",
@@ -21,6 +21,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111114"
+        },
+        {
+            "title": "2026년 스포츠토토 숏폼 공모전SPECIAL",
+            "organ": "국민체육진흥공단",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110678"
         },
         {
             "title": "[과학기술정보통신부] 제3회 미래융합인재 발굴 소프트웨어 챌린지SPECIALIDEA",
@@ -49,13 +56,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109516"
-        },
-        {
-            "title": "DIDA 2026 대구국제디자인어워드 공모전SPECIAL",
-            "organ": "대구경북디자인산업협회",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109120"
         },
         {
             "title": "제38회 대한민국 실내건축대전SPECIAL",
@@ -100,11 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
         },
         {
-            "title": "[기후에너지환경부] 제13회 대학생 물환경 정책·기술 공모전신규",
-            "organ": "기후에너지환경부",
+            "title": "CREPET AWARDS 2026 반려용품 디자인 공모전신규",
+            "organ": "주식회사 에이아이아트",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111329"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111351"
         }
     ]
 }
