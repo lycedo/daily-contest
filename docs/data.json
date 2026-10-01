@@ -1,8 +1,15 @@
 {
-    "last_updated": "2026-09-30 03:44:30",
+    "last_updated": "2026-10-01 03:51:11",
     "contests": [
         {
-            "title": "LG 대국민 미소 사진 공모전 - 스마일 모먼트SPECIAL",
+            "title": "2026 한국외식산업연구원 외식경영스타 아이디어 공모전신규SPECIAL",
+            "organ": "한국외식산업연구원",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111378"
+        },
+        {
+            "title": "LG 대국민 미소 사진 공모전 - 스마일 모먼트SPECIALIDEA",
             "organ": "LG",
             "date": "기한없음",
             "prize": "상세확인",
@@ -86,13 +93,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=107265"
         },
         {
-            "title": "제5회 서울특별시의회 청년 학술논문 공모전SPECIAL",
-            "organ": "서울특별시의회",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=106342"
-        },
-        {
             "title": "2026 제4회 충청남도 드론 영상 및 사진 공모전SPECIAL",
             "organ": "충청남도",
             "date": "기한없음",
@@ -100,11 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
         },
         {
-            "title": "CREPET AWARDS 2026 반려용품 디자인 공모전신규",
-            "organ": "주식회사 에이아이아트",
+            "title": "제40회 충남 산업디자인 대전 디자이너 모집신규",
+            "organ": "충청남도",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111351"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111379"
         }
     ]
 }
