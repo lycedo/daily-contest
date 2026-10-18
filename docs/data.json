@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-17 02:46:17",
+    "last_updated": "2026-10-18 02:47:47",
     "contests": [
         {
             "title": "2026 화성특례시 AI CF 공모전 - 제6회 별별화성 AwardsSPECIAL",
@@ -51,13 +51,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111311"
         },
         {
-            "title": "2026 0924영상제 영상 공모전SPECIALIDEA",
-            "organ": "하남시청소년수련관",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110585"
-        },
-        {
             "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)SPECIALIDEA",
             "organ": "Da-Ho Construction Co., Ltd.",
             "date": "기한없음",
@@ -105,6 +98,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=104715"
+        },
+        {
+            "title": "한국소통학회 주최 제1회 전국대학생 토론대회",
+            "organ": "한국소통학회/NS홈쇼핑",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111731"
         }
     ]
 }
