@@ -1,8 +1,22 @@
 {
-    "last_updated": "2026-11-01 04:00:55",
+    "last_updated": "2026-11-02 04:05:27",
     "contests": [
         {
-            "title": "농업가치 확산을 위한 농심천심 대학(원)생 논문 공모전SPECIAL",
+            "title": "[제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상신규SPECIAL",
+            "organ": "매경미디어",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112073"
+        },
+        {
+            "title": "건강보험심사평가원 광고 온에어 기념 이벤트SPECIAL",
+            "organ": "건강보험심사평가원",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112063"
+        },
+        {
+            "title": "농업가치 확산을 위한 농심천심 대학(원)생 논문 공모전SPECIALIDEA",
             "organ": "농업협동조합중앙회",
             "date": "기한없음",
             "prize": "상세확인",
@@ -23,7 +37,7 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111812"
         },
         {
-            "title": "2026 대경권 캠퍼스 IR 챔피언십 (창업 공모전)SPECIAL",
+            "title": "2026 대경권 캠퍼스 IR 챔피언십 (창업 공모전)SPECIALIDEA",
             "organ": "(주)포항연합기술지주",
             "date": "기한없음",
             "prize": "상세확인",
@@ -42,13 +56,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111647"
-        },
-        {
-            "title": "[건강보험심사평가원] 우리 동네 병원과 가까워지는 한마디 슬로건 공모전SPECIALIDEA",
-            "organ": "건강보험심사평가원",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111612"
         },
         {
             "title": "미래에셋금융서비스 TAMS 글로벌금융인양성과정 17기 모집SPECIAL",
@@ -93,18 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109966"
         },
         {
-            "title": "2026 디자인 크리에이션 챌린지(DCC) 3D프린팅 제품디자인 공모전SPECIAL",
-            "organ": "단국대-스트라타시스 첨단제조융합연구센터",
+            "title": "2026–27 스토리리그 AI 영상 예고편 공모전",
+            "organ": "TNJ INTERNATIONAL",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109516"
-        },
-        {
-            "title": "이번 11월 부여 어때 숏폼 공모전",
-            "organ": "부여군청",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112044"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112066"
         }
     ]
 }
