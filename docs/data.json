@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-11-02 04:05:27",
+    "last_updated": "2026-11-03 05:05:53",
     "contests": [
         {
-            "title": "[제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상신규SPECIAL",
+            "title": "[제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상SPECIAL",
             "organ": "매경미디어",
             "date": "기한없음",
             "prize": "상세확인",
@@ -51,13 +51,6 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111750"
         },
         {
-            "title": "2026 신한 스퀘어브릿지 대학생 창업 공모전 HERO IRSPECIALIDEA",
-            "organ": "신한금융그룹, 신한금융희망재단",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111647"
-        },
-        {
             "title": "미래에셋금융서비스 TAMS 글로벌금융인양성과정 17기 모집SPECIAL",
             "organ": "미래에셋금융서비스",
             "date": "기한없음",
@@ -65,11 +58,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111546"
         },
         {
-            "title": "2026 한국외식산업연구원 외식경영스타 아이디어 공모전SPECIAL",
-            "organ": "한국외식산업연구원",
+            "title": "2026 대한건축사협회 대학(원)생 모듈러건축 공모전SPECIAL",
+            "organ": "대한건축사협회",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111378"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110885"
+        },
+        {
+            "title": "2026 제1회 KIBE 융합디자인 공모전SPECIAL",
+            "organ": "(사)한국녹색플랜연구원",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=110826"
         },
         {
             "title": "7th Da-Ho Award Asian International Short Film Competition(단편영화 공모전)SPECIALIDEA",
@@ -100,11 +100,11 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109966"
         },
         {
-            "title": "2026–27 스토리리그 AI 영상 예고편 공모전",
-            "organ": "TNJ INTERNATIONAL",
+            "title": "2026 PAC 공모전신규",
+            "organ": "숙명여자대학교 홍보광고학과",
             "date": "기한없음",
             "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112066"
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112110"
         }
     ]
 }
