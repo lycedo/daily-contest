@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-11-07 04:23:47",
+    "last_updated": "2026-11-08 04:07:13",
     "contests": [
         {
             "title": "[제3회] 매경 AI 광고 공모전 대한민국 AI 광고대상SPECIAL",
@@ -21,13 +21,6 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111899"
-        },
-        {
-            "title": "한층 업그레이드된 책쓰기 프로젝트 59기 모집｜1인1권 출간보장/6주과정/인세지급SPECIAL",
-            "organ": "글ego",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=111881"
         },
         {
             "title": "공모전 준비 중이라면? AI 교정 서비스 [교정의 신]과 함께!SPECIAL",
@@ -100,11 +93,18 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109966"
         },
         {
-            "title": "2026 김천 삼색이수 AI 영상·웹툰 공모전신규",
+            "title": "2026 김천 삼색이수 AI 영상·웹툰 공모전",
             "organ": "삼색이수상권상인 협동조합",
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112221"
+        },
+        {
+            "title": "제1회 AI 숏드라마 시나리오 공모전",
+            "organ": "다음",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112212"
         }
     ]
 }
