@@ -1,8 +1,8 @@
 {
-    "last_updated": "2026-11-27 06:27:33",
+    "last_updated": "2026-11-28 06:02:47",
     "contests": [
         {
-            "title": "뉴테이크 AI 영상 공모전 - NEW TAKE ON AISPECIAL",
+            "title": "뉴테이크 AI 영상 공모전 - NEW TAKE ON AISPECIALIDEA",
             "organ": "뉴테이크",
             "date": "기한없음",
             "prize": "상세확인",
@@ -23,14 +23,7 @@
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112374"
         },
         {
-            "title": "농민신문 제31회 신춘문예 작품 공모SPECIALIDEA",
-            "organ": "농민신문",
-            "date": "기한없음",
-            "prize": "상세확인",
-            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112349"
-        },
-        {
-            "title": "VIVID RE:PLAY 6개 IP로 만드는 AI영상 공모전SPECIAL",
+            "title": "VIVID RE:PLAY 6개 IP로 만드는 AI영상 공모전SPECIALIDEA",
             "organ": "(주)아캐인",
             "date": "기한없음",
             "prize": "상세확인",
@@ -105,6 +98,13 @@
             "date": "기한없음",
             "prize": "상세확인",
             "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=109966"
+        },
+        {
+            "title": "체육시설안전45 체크리스트 개선사례 공모전신규",
+            "organ": "국민체육진흥공단",
+            "date": "기한없음",
+            "prize": "상세확인",
+            "link": "https://www.wevity.com/?c=find&s=1&gbn=view&gp=1&ix=112610"
         }
     ]
 }
